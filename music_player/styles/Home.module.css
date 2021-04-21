@@ -18,13 +18,17 @@
   background-position: center;
   height: 100vh;
 }
+.margin{
+  margin-left: 50px;
+  margin-top: 32px;
+}
 .image1 {
-  padding-top: 130px !important;
-  padding-left: 160px !important;
+  padding-top: 170px !important;
+  padding-left: 190px !important;
 }
 .image2 {
   padding-top: 150px !important;
-  padding-left: 35px !important;
+  padding-left: 62px !important;
 }
 .steps {
   padding: 10px 16px;

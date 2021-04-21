@@ -46,7 +46,7 @@ export default function Home() {
             />
           </div>
         </div>
-        <div className="col-sm">
+        <div className="col-sm margin">
           <h5 className={styles.subtitle}>Moodagent on desktop:</h5>
           <ol >
             <li className={styles.steps}>If you already have a Moodagent account, continue to the next step. If not, follow the steps above to create your account using our mobile app.
