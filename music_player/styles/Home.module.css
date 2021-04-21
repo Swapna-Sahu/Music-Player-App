@@ -67,3 +67,25 @@
 .text_style {
   display: inline !important;
 }
+
+@media screen and (max-width: 480px) {
+
+  .left,
+  .right {
+    background-color: black;
+    height: auto;
+    background-image: unset !important;
+  }
+
+  .right {
+    padding-top: 10px !important;
+  }
+  
+  .image2{
+    padding-top: -30px !important;
+  }
+
+  .questions {
+    padding: 45px;
+  }
+}

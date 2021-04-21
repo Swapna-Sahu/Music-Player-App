@@ -8,7 +8,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div className="container-sm">
       <Navbar />
       <section className="row" >
         <div className="col-sm m-5 " >
